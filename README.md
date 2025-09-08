@@ -2,7 +2,7 @@
 this is demo for git and github class.
 
 # Teacher
-shradha khapra
+ any one
 
 # student
 umlesh yadav
